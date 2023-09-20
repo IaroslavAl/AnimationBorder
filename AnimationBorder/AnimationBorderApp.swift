@@ -11,7 +11,10 @@ import SwiftUI
 struct AnimationBorderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                ContentView()
+                    .preferredColorScheme(.dark)
+            }
         }
     }
 }

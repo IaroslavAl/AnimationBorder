@@ -11,6 +11,7 @@
 		A3FC85552ABB4F5F00F8994A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC85542ABB4F5F00F8994A /* ContentView.swift */; };
 		A3FC85572ABB4F6100F8994A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3FC85562ABB4F6100F8994A /* Assets.xcassets */; };
 		A3FC855A2ABB4F6100F8994A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3FC85592ABB4F6100F8994A /* Preview Assets.xcassets */; };
+		A3FC85612ABB6B9D00F8994A /* AnimationBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC85602ABB6B9D00F8994A /* AnimationBorder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A3FC85542ABB4F5F00F8994A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A3FC85562ABB4F6100F8994A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3FC85592ABB4F6100F8994A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A3FC85602ABB6B9D00F8994A /* AnimationBorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBorder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A3FC85522ABB4F5F00F8994A /* AnimationBorderApp.swift */,
 				A3FC85542ABB4F5F00F8994A /* ContentView.swift */,
+				A3FC85602ABB6B9D00F8994A /* AnimationBorder.swift */,
 				A3FC85562ABB4F6100F8994A /* Assets.xcassets */,
 				A3FC85582ABB4F6100F8994A /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3FC85552ABB4F5F00F8994A /* ContentView.swift in Sources */,
+				A3FC85612ABB6B9D00F8994A /* AnimationBorder.swift in Sources */,
 				A3FC85532ABB4F5F00F8994A /* AnimationBorderApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
